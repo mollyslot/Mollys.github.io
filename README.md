@@ -1,6 +1,4 @@
 # molly.github.io
-# Directory structure
-.
 ├── _config.yml
 ├── _layouts/
 │   ├── default.html
@@ -19,7 +17,7 @@
 ├── index.html
 └── about.md
 
-# _config.yml
+# config.yml
 title: Your Name
 description: Your Blog Description
 url: "https://yourusername.github.io"
